@@ -51,3 +51,19 @@ console.log ("You have spent a total of $" + total + " on groceries over 5 weeks
 
 //Givens:
 var originalP =5;
+var discountPer =50;
+var description ="donut";
+var taxP =10
+var percentTax = taxP/100
+var percentDiscount = discountPer/100;
+console.log(percentDiscount);
+//Result Variables:
+var itemNoTax = originalP*percentDiscount
+var itemWithTax = itemNoTax+(itemNoTax*percentTax);
+console.log (itemNoTax);
+console.log (itemWithTax);
+console.log ("Your " + description + " was originally $" + originalP + " but after a " + percentDiscount + "% discount, it is now $" + itemNoTax + " without tax, and $" + itemWithTax + " with tax." )
+
+
+
+
