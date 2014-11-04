@@ -31,6 +31,7 @@ var results =("The area of the rectangle with a width of "+width+ " and a length
 console.log("The area of the rectangle with a width of "+width+ " and a length of "+length+" is "+area+".");
 
 console.log(results);
+alert(results);
 
 alert("The area of the rectangle with a width of "+width+ " and a length of "+length+" is "+area+".");
 //by adding alert to the front of the concatenation it shoots it back at the user
