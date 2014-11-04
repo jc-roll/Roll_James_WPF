@@ -8,6 +8,7 @@ Wpf 1411
 
 //alert("testing 1.2,3!");
 
+//This will gather information from the user calculate the miles driven in a week and tell them to drive safely.
 
 var usersName = prompt("Enter your Name. (First, Last)");
 var miles = prompt("Please enter how many miles you drive a day.");
