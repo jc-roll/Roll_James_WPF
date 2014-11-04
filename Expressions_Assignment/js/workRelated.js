@@ -9,9 +9,10 @@ Wpf 1411
 //alert("testing 1.2,3!");
 
 //prompts
-var favComp = prompt("What is your favorite kind of computer A or B?\n A.) 15 inch Mac.\n B.)16 inch PC.");
-var thickness = prompt ("How many inches thick would you like your computer to be 1 or 2?\n This does not effect the power of computer just taste.")
-//Array
-var computerTypes = [" 15 inch Mac","16 inch PC"];
+var hoursDay = prompt("How many hours do you use your computer in a day?");
+var daysWeek = prompt ("How many days do you work in a week?\n On average don't think holidays (Must be a whole number).")
+
+
+ console.log(computerTypes[1]);
 
 
