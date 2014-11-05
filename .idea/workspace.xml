@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed3ded85-8412-4b2f-9b75-42479cb0428f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/wacky.js.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/wacky.js.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/js/personal.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/js/personal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/js/wacky.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/js/wacky.js" />
     </list>
     <ignored path="Roll_James_WPF.iws" />
@@ -43,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/js/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29605263" vertical-offset="0" max-vertical-offset="760">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -52,8 +52,8 @@
       <file leaf-file-name="personal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="18" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="day4Arrays.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 4/js/day4Arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="1065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -104,10 +104,10 @@
         <option value="$PROJECT_DIR$/Day 4/casting.html" />
         <option value="$PROJECT_DIR$/Day 4/js/day4Casting.js" />
         <option value="$PROJECT_DIR$/Expressions_Assignment/personal.js.html" />
-        <option value="$PROJECT_DIR$/Expressions_Assignment/js/personal.js" />
         <option value="$PROJECT_DIR$/Expressions_Assignment/workRelated.js.html" />
         <option value="$PROJECT_DIR$/Expressions_Assignment/js/workRelated.js" />
         <option value="$PROJECT_DIR$/Expressions_Assignment/wacky.js.html" />
+        <option value="$PROJECT_DIR$/Expressions_Assignment/js/personal.js" />
         <option value="$PROJECT_DIR$/Expressions_Assignment/js/wacky.js" />
       </list>
     </option>
@@ -116,8 +116,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="53" />
+    <option name="x" value="-141" />
+    <option name="y" value="103" />
     <option name="width" value="1400" />
     <option name="height" value="870" />
   </component>
@@ -327,7 +327,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="53" width="1400" height="870" extended-state="0" />
+    <frame x="-141" y="103" width="1400" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -447,16 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/day4Arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="1065">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/js/workRelated.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15789473" vertical-offset="0" max-vertical-offset="760">
@@ -493,16 +483,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="18" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/js/day4Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/js/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29605263" vertical-offset="0" max-vertical-offset="760">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
           <folding />
         </state>
       </provider>
