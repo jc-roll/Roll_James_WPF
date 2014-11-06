@@ -46,4 +46,30 @@ Wpf 1411
 
   */
 
- 
+ var grade=92;
+
+
+ if(grade<70){
+  console.log("You got F");
+
+ } else if(grade<=73){
+  console.log("You got D");
+
+ } else if(grade<=76){
+  console.log("You got C-");
+
+ } else if(grade<=140){
+  console.log("You got B-");
+
+ } else if(steakTemp<=150){
+  console.log("You got a C");
+
+ } else if(steakTemp<=155){
+  console.log("You got a C-");
+
+ } else if(steakTemp<=160){
+  console.log("You got a D")
+
+ } else{
+  console.log("You got an F")
+ }
