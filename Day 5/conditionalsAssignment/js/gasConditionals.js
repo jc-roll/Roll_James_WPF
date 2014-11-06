@@ -65,7 +65,7 @@ Wpf 1411
   console.log("You got a B-");
 
  } else if(grade<=90){
-  console.log("You got a B+");
+  console.log("You got a B+");u
 
  } else if(grade<=95){
   console.log("You got an A");
@@ -87,8 +87,15 @@ Wpf 1411
 
   */
 
- var tirePressures = ("frontLeftPsi" , "frontRightPsi" , "backLeftPsi" , "backLeftPsi")
- var tirePressures(0) = 10;
- var tirePressures(2) = 10;
- var backLeftPsi = 12;
- var backRightPsi =10;
+ var tirePressures = [];
+ tirePressures[0] = 10;
+ tirePressures[1] = 10;
+ tirePressures[2] = 12;
+ tirePressures[3] = 12;
+
+ if ((tirePressures[0] == tirePressures[1]) && (tirePressures[2] == tirePressures[3])){
+  console.log("The tires pass spec!");
+
+ } else {
+  console.log("Get your tires checked out!");
+ }
