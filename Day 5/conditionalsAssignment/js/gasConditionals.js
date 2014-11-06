@@ -78,4 +78,17 @@ Wpf 1411
  }
 
 
- 
+ /*
+
+  Given:
+  Pressure for each tire of the car (in psi) in an array.
+  Result To Print Out:
+  “The tires pass spec!” Or “ Get your tires checked out!”
+
+  */
+
+ var tirePressures = ("frontLeftPsi" , "frontRightPsi" , "backLeftPsi" , "backLeftPsi")
+ var tirePressures(0) = 10;
+ var tirePressures(2) = 10;
+ var backLeftPsi = 12;
+ var backRightPsi =10;
