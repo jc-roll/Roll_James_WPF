@@ -65,7 +65,7 @@ Wpf 1411
   console.log("You got a B-");
 
  } else if(grade<=90){
-  console.log("You got a B+");u
+  console.log("You got a B+");
 
  } else if(grade<=95){
   console.log("You got an A");
