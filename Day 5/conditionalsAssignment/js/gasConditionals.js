@@ -46,28 +46,28 @@ Wpf 1411
 
   */
 
- var grade=92;
+ var grade=95;
 
 
- if(grade<=70){
+ if(grade<=69){
   console.log("You got an F");
 
- } else if(grade<=73){
+ } else if(grade<=72){
   console.log("You got a D");
 
- } else if(grade<=76){
+ } else if(grade<=75){
   console.log("You got a C-");
 
- } else if(grade<=80){
+ } else if(grade<=79){
   console.log("You got a C");
 
- } else if(grade<=85){
+ } else if(grade<=84){
   console.log("You got a B-");
 
- } else if(grade<=90){
+ } else if(grade<=89){
   console.log("You got a B+");
 
- } else if(grade<=95){
+ } else if(grade<=94){
   console.log("You got an A");
 
  } else if(grade<=100){
