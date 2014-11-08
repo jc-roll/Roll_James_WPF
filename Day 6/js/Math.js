@@ -64,3 +64,24 @@ Wpf 1411
 
 var num9 = Math.round(Math.random() *(80-50)+50);
  console.log(num9);
+
+ //Prompt the user for a max and min values
+ //Find the random number between them
+ var max = prompt("Lets a random number whats the max value?");
+ var min = prompt("Please type in the minimum number now.");
+
+ //find the random integer
+ var randomNum =Math.round(Math.random() * (max-min))+Number(min);
+ console.log(randomNum);
+ console.log("You random number is " +randomNum);
+
+ //Math class constant
+ //number that never changes
+ //Always upper case
+ //Math.PI - 3.1459....
+ //circum
+ //2*PIr
+ var radius = 7;
+ var circleArea = 2*Math.PI * radius;
+ console.log(circleArea);
+
