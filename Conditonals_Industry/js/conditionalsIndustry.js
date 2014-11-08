@@ -15,13 +15,14 @@ Date
 
 
 
- ageDiscount = (age<50)? "You are to young to get the senior discount" : (age>=50)? "You are old enough to get the senior discount!";
- console.log(book);
+ ageDiscount = (age<50)? "You are to young to get the senior discount" : "You are old enough to get the senior discount!";
 
- if(timeInCompany>10){
+ console.log(ageDiscount);
+
+ if(timeInCompany>=10){
   console.log("You get a company discount because you have worked here for " +timeInCompany+ " years.");
 
  } else if(timeInCompany<10){
 
-  console.log("You don't get a company discount because you have not worked here for at least ten years.\nYou only have " + timeInCompany + " years in the company.");
+  console.log("You don't get a company discount because you have not worked here for at least ten years.\n You only have " + timeInCompany + " years in the company.");
  }
