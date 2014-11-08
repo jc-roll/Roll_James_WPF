@@ -2,7 +2,7 @@
  /*
 James Roll
 Conditionals_Personal
-Wpf 1411
+Wpf 14111`
 11-7-2014
  */
 
@@ -10,7 +10,7 @@ Wpf 1411
 
 //Ok so this code gathers the three prompts and then decides wither they are ready, not ready, or have not been training for a marathon.
 //This is geared towards me but I wanted it to make since if some one else was training for a marathon instead of myself alone.
- 
+
  var runMph = prompt("How many miles do you run in an hour?\nIf you did run type 0.");
  var hoursRan = prompt("How many hours can you run?\nIf you did not run type 0.");
  var marathonMiles = prompt("How many miles are in the marathon you want to run in?");

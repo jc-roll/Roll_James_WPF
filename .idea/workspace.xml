@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed3ded85-8412-4b2f-9b75-42479cb0428f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Personal/js/conditonalsPersonal.js" afterPath="$PROJECT_DIR$/Conditionals_Personal/js/conditonalsPersonal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js" afterPath="$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js" />
     </list>
     <ignored path="Roll_James_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,18 +30,18 @@
       <file leaf-file-name="gasConditionals.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 5/conditionalsAssignment/js/gasConditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="1590">
-              <caret line="27" column="30" selection-start-line="20" selection-start-column="1" selection-end-line="34" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="817" max-vertical-offset="1590">
+              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditonalsPersonal.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/js/conditonalsPersonal.js">
+      <file leaf-file-name="conditonalsWacky.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23285899" vertical-offset="0" max-vertical-offset="773">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.5045278" vertical-offset="0" max-vertical-offset="773">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -116,6 +117,7 @@
         <option value="$PROJECT_DIR$/Conditionals_Wacky/conditionalsWacky.html" />
         <option value="$PROJECT_DIR$/Conditonals_Industry/conditonalsIndustry.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/js/conditonalsPersonal.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js" />
       </list>
     </option>
   </component>
@@ -123,8 +125,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="89" />
+    <option name="x" value="160" />
+    <option name="y" value="82" />
     <option name="width" value="1400" />
     <option name="height" value="870" />
   </component>
@@ -461,7 +463,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="89" width="1400" height="870" extended-state="0" />
+    <frame x="160" y="82" width="1400" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -834,34 +836,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="773">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/conditionalsAssignment/js/gasConditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="1590">
-          <caret line="27" column="30" selection-start-line="20" selection-start-column="1" selection-end-line="34" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/js/day6Nestingifs1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8926261" vertical-offset="0" max-vertical-offset="1155">
           <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/js/day5Conditionals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="1080">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -876,8 +854,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/js/conditonalsPersonal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23285899" vertical-offset="0" max-vertical-offset="773">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.4851229" vertical-offset="0" max-vertical-offset="773">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/conditionalsAssignment/js/gasConditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="817" max-vertical-offset="1590">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 5/js/day5Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="307" max-vertical-offset="1080">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/conditonalsWacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5045278" vertical-offset="0" max-vertical-offset="773">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
