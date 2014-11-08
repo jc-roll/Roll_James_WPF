@@ -21,5 +21,7 @@ Date
  if(timeInCompany>10){
   console.log("You get a company discount because you have worked here for " +timeInCompany+ " years.");
 
- } else{
-  console.log("You don't get a company discount because you have not worked here for at least ten years.\nYou only have " +timeInCompany+ );
+ } else if(timeInCompany<10){
+
+  console.log("You don't get a company discount because you have not worked here for at least ten years.\nYou only have " + timeInCompany + " years in the company.");
+ }

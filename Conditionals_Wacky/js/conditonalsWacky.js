@@ -26,7 +26,7 @@ if(clownQuestions[2].toLowerCase() == "no" || clownQuestions[3].toLowerCase() ==
   console.log("You clowns are not a match you both don't like chocolate!")
 
 }else if((clownQuestions[0] == clownQuestions[1]) && (clownQuestions[2] == clownQuestions[3])){
-  console.log("Alright congrat clowns you are a match go eat all the chocolate you can stomach!");
+  console.log("Alright congrats clowns you are a match go eat all the chocolate you can stomach!");
 
  } else {
  console.log("You clowns are not a match best find some other clown to sit with you might fight!")
