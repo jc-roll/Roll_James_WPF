@@ -20,14 +20,20 @@ Wpf 1411
  clownQuestions[3] = prompt("hello clown two second question do you like other clowns?")
 var no = 1
 if(clownQuestions[2] == 1){
- console.log("You clowns are not a match best find some one else you might fight!")
+ console.log("You clowns are not a match best find some other clown to sit with you might fight!")
 
-} else if(clownQuestions[3] == 1){
- console.log("You clowns are not a match best find some one else you might fight!")
- 
+} else if(clownQuestions[3] == 1) {
+ console.log("You clowns are not a match best find some other clown to sit with you might fight!")
+
+} else if (clownQuestions[2] == 1){
+  console.log("You clowns are not a match you both don't like chocolate!")
+
+ } else if(clownQuestions[3] == 1){
+  console.log("You clowns are not a match you both don't like chocolate!")
+
 }else if((clownQuestions[0] == clownQuestions[1]) && (clownQuestions[2] == clownQuestions[3])){
   console.log("Alright congrats you clowns are a match go eat all the chocolate you can stomach!");
 
  } else {
- console.log("You clowns are not a match best find some one else you might fight!")
+ console.log("You clowns are not a match best find some other clown to sit with you might fight!")
  }
