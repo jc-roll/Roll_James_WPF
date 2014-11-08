@@ -23,8 +23,11 @@ console.log("End of loop- last counter variable "+counter);
  //DO while loops
  //its sort of like the while loop
  //difference is, the code will run at least once!
- var i=30;
+ var i=0;
+
  do{
-  console.log("The counting number is "+i)
+  console.log("The counting number is "+i);
+
   i++;
- }while(i<10);
+
+ }while(i<50);
