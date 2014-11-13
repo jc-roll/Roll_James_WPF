@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day8Arguments.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day8Arguments.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day8/js/day8Arguments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.52863437" vertical-offset="0" max-vertical-offset="690">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Arguments.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8Arguments.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day8/day8Arguments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2283105" vertical-offset="0" max-vertical-offset="657">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -730,18 +730,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8/js/day8Arguments.js">
+    <entry file="file://$PROJECT_DIR$/Day8/day8Arguments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8/day8Arguments.html">
+    <entry file="file://$PROJECT_DIR$/Day8/js/day8Arguments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2283105" vertical-offset="0" max-vertical-offset="657">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.52863437" vertical-offset="0" max-vertical-offset="690">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding />
         </state>
       </provider>
