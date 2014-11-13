@@ -23,6 +23,7 @@ console.log(returnedArea);
 
  //prompt the user
  var width = prompt("Please enter a width:");
+
  var length = prompt("Please enter a length:");
 
  var userRectArea = calcArea(width,length);
@@ -36,3 +37,20 @@ var userRectPeri = periRect(width,length);
   return perimeter;
 
  }
+
+
+ //validate the prompt
+ while(width==="" || isNaN(width)){
+  width = prompt("Only type in numbers and please do not leave blank");
+
+ }
+
+ function validateMe(userPrompt){
+  while(userPrompt==="" || isNaN(userPrompt)){
+   userPrompt = prompt("Please only type in numbers and please do not leave blank");
+
+  }
+  return userPrompt
+ }
+
+ //to use go under the prompts and type in //length = validateMe(length);
