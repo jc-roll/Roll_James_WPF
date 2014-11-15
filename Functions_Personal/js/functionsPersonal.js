@@ -21,7 +21,5 @@ Wpf 1411
   var shoeSize = parseInt(prompt("What size shoe do you wear?"));
   while (shoeSize === "" || isNaN(shoeSize)) {
    shoeSize = prompt("Only type in a numbers and please do not leave blank");
-
   }
- console.log(shoeSize);
  foreignSize(shoeSize);
