@@ -9,6 +9,7 @@ Date
 //alert("testing 1.2,3!");
 
 
+
  function calcStings(pounds) {
   var totalStings = pounds*8.666666667;
   console.log("The amount of stings that will kill you is " + totalStings+ ".");
