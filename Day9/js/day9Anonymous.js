@@ -41,7 +41,7 @@ Wpf 1411
  //Anonymous function that calculates triangle area
 
  var anonTriArea = function(base,height){
-  var area = .5 * base * height
+  var area = .5 * base * height;
   return area
 
  };

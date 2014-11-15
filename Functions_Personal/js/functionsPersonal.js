@@ -18,8 +18,14 @@ Wpf 1411
   (newShoeSize <= 10) ? console.log("Congrats you can buy shoes from the store!") : console.log("Sorry, your feet are to large to purchase shoes from here!");
   return newShoeSize;
  }
-  var shoeSize = parseInt(prompt("What size shoe do you wear?"));
-  while (shoeSize === "" || isNaN(shoeSize)) {
-   shoeSize = prompt("Only type in a numbers and please do not leave blank");
+ var shoeSize = parseInt(prompt("What size shoe do you wear?"));
+while(shoeSize==="" || isNaN(shoeSize)){
+
+  if(shoeSize===""){
+ shoeSize = parseInt(prompt("Please do not leave blank"));
+
+ }else if(isNaN(shoeSize)) {
+   shoeSize = parseInt(prompt("Please only type in numbers."));
   }
+ }
  foreignSize(shoeSize);
