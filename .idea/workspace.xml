@@ -49,8 +49,8 @@
       <file leaf-file-name="finalExamWPF.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Final Exam/js/finalExamWPF.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4845815" vertical-offset="0" max-vertical-offset="681">
-              <caret line="22" column="154" selection-start-line="22" selection-start-column="154" selection-end-line="22" selection-end-column="154" />
+            <state vertical-scroll-proportion="0.5506608" vertical-offset="0" max-vertical-offset="681">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -122,8 +122,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="59" />
-    <option name="y" value="57" />
+    <option name="x" value="-36" />
+    <option name="y" value="51" />
     <option name="width" value="1624" />
     <option name="height" value="778" />
   </component>
@@ -391,7 +391,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="57" width="1624" height="778" extended-state="0" />
+    <frame x="-36" y="51" width="1624" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -798,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Final Exam/js/finalExamWPF.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4845815" vertical-offset="0" max-vertical-offset="681">
-          <caret line="22" column="154" selection-start-line="22" selection-start-column="154" selection-end-line="22" selection-end-column="154" />
+        <state vertical-scroll-proportion="0.5506608" vertical-offset="0" max-vertical-offset="681">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding />
         </state>
       </provider>
