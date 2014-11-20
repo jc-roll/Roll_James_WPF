@@ -17,9 +17,10 @@ Wpf 1411
  while(discount==="" || isNaN(discount) || discount<=101) {
   discount = prompt("Only type in a numbers and please do not leave blank\nHow much was the discount?");
  }
- 
+
  function discounts(cost,discount) {
   var discountP = (100 - discount)/100*cost;
+  console.log("The discounted price of your item that the original cost was " +cost+ " with a discount of " +discount+ " now will cost you "+discountP+ "!" )
   return discountP;
  }
 
